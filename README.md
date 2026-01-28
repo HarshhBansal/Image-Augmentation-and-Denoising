@@ -70,11 +70,9 @@ Side-by-side visual comparisons are shown between noisy and filtered images.
 
 ## 📊 Outputs
 The project generates multiple visual results including:
-- Original RGB image
-- Individual RGB channels
+- Original RGB image(results/gryscale_results.png)
 - Augmented images
 - Noisy grayscale images
-- Denoised images using Gaussian and Median filters
 
 These outputs help in understanding the behavior of noise and the effectiveness of filtering techniques.
 
