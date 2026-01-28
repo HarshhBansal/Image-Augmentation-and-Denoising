@@ -70,7 +70,7 @@ Side-by-side visual comparisons are shown between noisy and filtered images.
 
 ## 📊 Outputs
 The project generates multiple visual results including:
-- Original RGB image(results/Grayscale_results.png)
+- Original RGB image(results/Grayscale_image.png)
 - Augmented images
 - Noisy grayscale images
 
